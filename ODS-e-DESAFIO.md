@@ -1,6 +1,6 @@
 # Relatório de Ideação
 
-## 1. ODS escolhida --- ODS 11: Cidades e Comunidades Sustentáveis
+## 1️⃣ ODS escolhida --- ODS 11: Cidades e Comunidades Sustentáveis
 
 A **ODS 11 --- Cidades e Comunidades Sustentáveis** tem como objetivo
 tornar as cidades e os assentamentos humanos mais inclusivos, seguros,
@@ -15,7 +15,7 @@ sentido, a proposta busca utilizar a tecnologia como meio de aproximar a
 população de recursos culturais disponíveis em sua própria cidade,
 estimulando sua utilização, circulação e valorização.
 
-## 2. Problemática
+## 2️⃣ Problemática
 
 Apesar da existência de livros, sebos, livrarias independentes e pontos
 de troca que podem contribuir para o acesso à leitura, essas iniciativas
@@ -32,7 +32,7 @@ Dessa forma, identifica-se uma **desconexão entre pessoas que possuem
 livros, pessoas que procuram por esses materiais e estabelecimentos ou
 iniciativas que possibilitam sua troca, compra, venda ou doação**.
 
-## 3. Declaração do desafio
+## 3️⃣ Declaração do desafio
 
 A partir da problemática identificada e da relação com a ODS 11, o
 desafio da atividade pode ser definido como:
