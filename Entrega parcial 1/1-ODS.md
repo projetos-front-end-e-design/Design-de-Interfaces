@@ -1,19 +1,28 @@
-# Relatório de Ideação
+<div align="center">
+
+# ODS SELECIONADA E SUA META ESPECÍFICA
+</div>
 
 ## 1️⃣ ODS escolhida --- ODS 11: Cidades e Comunidades Sustentáveis
 
-A **ODS 11 --- Cidades e Comunidades Sustentáveis** tem como objetivo
+A **ODS 11 - Cidades e Comunidades Sustentáveis** tem como objetivo
 tornar as cidades e os assentamentos humanos mais inclusivos, seguros,
-resilientes e sustentáveis. Entre suas metas, destaca-se a valorização e
-a preservação do patrimônio cultural, além do desenvolvimento de
-comunidades mais acessíveis e sustentáveis.
+resilientes e sustentáveis.
 
-Dentro do contexto da **atividade proposta**, a ODS 11 está relacionada
-à valorização da cultura e dos recursos existentes nas comunidades, bem
-como ao fortalecimento de iniciativas e estabelecimentos locais. Nesse
-sentido, a proposta busca utilizar a tecnologia como meio de aproximar a
-população de recursos culturais disponíveis em sua própria cidade,
-estimulando sua utilização, circulação e valorização.
+Para esta proposta, foi selecionada a meta que estabelece o
+fortalecimento de esforços para proteger e salvar o patrimônio
+cultural.
+
+A relação da proposta com essa meta está na valorização e ampliação do
+acesso aos recursos culturais presentes nas comunidades. Nesse contexto,
+a circulação de livros e o fortalecimento de iniciativas locais, como
+sebos, livrarias independentes e pontos de troca, são considerados
+elementos que contribuem para aproximar a população de recursos culturais
+existentes em seu entorno.
+
+A tecnologia, nesse cenário, pode atuar como meio de facilitar a
+descoberta, o acesso e a circulação desses recursos, fortalecendo a
+conexão entre a comunidade e as iniciativas locais.
 
 ## 2️⃣ Problemática
 
