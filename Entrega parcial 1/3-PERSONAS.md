@@ -23,16 +23,21 @@
   José Farias da Silva
   é um estudante de ensino médio de 18 anos de idade se preparando pro vestibular a fim de entrar no ITA e cursar engenharia de aeronáutica. Ele vem de uma
   família simples da periferia de São Paulo na zona norte da cidade. Para conseguir passar no vestibular ele busca formas de acessar materiais didáticos e
-  preparatórios que possam ajudar ele a realizar seu sonho de estudar no ITA.
+  preparatórios que possam ajudar ele a realizar seu sonho de estudar no ITA. ele precisa do acesso a mais materiais didáticos porque ele nem sempre
+  consegue atender todas as aulas da escola e os materiais da escola pública não são o suficiente para seus estudos.
 
-  A principal necessidade é encontrar matériais de estudo mais voltados à preparação para passar no ITA por meio de opções mais acessíveis;
+  A principal necessidade é encontrar materiais de estudo mais voltados à preparação para passar no ITA por meio de opções mais acessíveis;
   Localizar feiras de livros e eventos similares;
 
-  Para José encontrar pontos onde ele consiga encontrar matériais didáticos por preços mais acessíveis ou até mesmo por trocas é essencial considerando a
+  Para José encontrar pontos onde ele consiga encontrar materiais didáticos por preços mais acessíveis ou até mesmo por trocas é essencial considerando a
   situação fiscal de sua família.
+
+    https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2102240
+    link do IBGE que leva a uma página do IBGE que dá o acesso de um pdf sobre indicadores sociais, principais informações em relação a educação
+    estão localizadas a partir da página 75, sobre redes de ensino e etc, página 87 fala sobre as redes de ensino
   
   ## Persona 3
-  Renan RIcardo da Sousa Filho
+  Renan Ricardo da Sousa Filho
   46 anos, professor de cursinho. Ele é professor já a 20 anos, seus primeiros 14 como professor de ensino médio e depois começou a dar aulas em cursinhos
   diferentes.
   Ele deseja ajudar os seus alunos para se prepararem ao vestibular ao apresentar a eles diferentes materiais sobre os assuntos no qual ele dá aula.
