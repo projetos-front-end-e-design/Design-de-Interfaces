@@ -1,5 +1,9 @@
-# Ideação das Personas
-  ## Persona 1
+<div align="center">
+  
+### IDEAÇÃO DAS PERSONAS
+</div>
+  
+## Persona 1
   Mariana Santos, 21 anos, estudante universitária, está interessada em encontrar livros e materiais de estudo de forma mais acessível. Ela busca 
   alternativas   aos livros novos, procurando sebos, pontos de troca e doação e outras iniciativas que facilitem o acesso e a circulação de obras.
 
