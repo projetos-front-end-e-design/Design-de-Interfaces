@@ -40,6 +40,8 @@
   46 anos, professor de cursinho. Ele é professor já a 20 anos, seus primeiros 14 como professor de ensino médio e depois começou a dar aulas em cursinhos
   diferentes.
   Ele deseja ajudar os seus alunos para se prepararem ao vestibular ao apresentar a eles diferentes materiais sobre os assuntos no qual ele dá aula.
+  Ele está procurando feiras de livro, e etc para recomendar seus aulos a irem para conseguirem mais facilmente esses materiais para auxiliar seus alunos
+  nos estudos e para que consigam ter mais confiança e facilidade nos simulados que visam o vestibular de escolha de cada aluno
 
   ## Persona 4
   Camila Oliveira, 32 anos, é uma consumidora de livros que encontra na leitura uma forma de lazer e crescimento pessoal.
@@ -58,5 +60,4 @@
 
   Fonte: Câmara Brasileira do Livro (CBL) / Nielsen BookData (Pesquisa Panorama do Consumo de Livros, fev/2025).
   https://www.cbl.org.br/2025/02/com-preco-igual-49-dos-brasileiros-preferem-comprar-em-livrarias-fisicas/ 
-  Ele está procurando feiras de livro, e etc para recomendar seus aulos a irem para conseguirem mais facilmente esses materiais para auxiliar seus alunos
-  nos estudos e para que consigam ter mais confiança e facilidade nos simulados que visam o vestibular de escolha de cada aluno
+  
