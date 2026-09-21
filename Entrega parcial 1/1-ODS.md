@@ -24,19 +24,20 @@ A tecnologia, nesse cenário, pode atuar como meio de facilitar a
 descoberta, o acesso e a circulação desses recursos, fortalecendo a
 conexão entre a comunidade e as iniciativas locais.
 
-## 2️⃣ Problemática
-
-Apesar da existência de livros, sebos, livrarias independentes e pontos
-de troca que podem contribuir para o acesso à leitura, essas iniciativas
-nem sempre possuem **visibilidade e informações centralizadas** para que
-a população possa encontrá-las facilmente.
-
-Ao mesmo tempo, estudantes e leitores podem enfrentar dificuldades para
-adquirir livros, principalmente quando os preços dos exemplares novos
-representam uma barreira. Paralelamente, muitos livros em bom estado
-permanecem sem utilização, deixando de circular entre pessoas que
-poderiam aproveitá-los.
-
-Dessa forma, identifica-se uma **desconexão entre pessoas que possuem
-livros, pessoas que procuram por esses materiais e estabelecimentos ou
-iniciativas que possibilitam sua troca, compra, venda ou doação**.
+> ## 2️⃣ Problemática
+> 
+> Apesar da existência de livros, sebos, livrarias independentes e pontos
+> de troca que podem contribuir para o acesso à leitura, essas iniciativas
+> nem sempre possuem **visibilidade e informações centralizadas** para que
+> a população possa encontrá-las facilmente.
+> 
+> Ao mesmo tempo, estudantes e leitores podem enfrentar dificuldades para
+> adquirir livros, principalmente quando os preços dos exemplares novos
+> representam uma barreira. Paralelamente, muitos livros em bom estado
+> permanecem sem utilização, deixando de circular entre pessoas que
+> poderiam aproveitá-los.
+> 
+> Dessa forma, identifica-se uma **desconexão entre pessoas que possuem
+> livros, pessoas que procuram por esses materiais e estabelecimentos ou
+> iniciativas que possibilitam sua troca, compra, venda ou doação**.
+> 
