@@ -31,21 +31,3 @@ poderiam aproveitá-los.
 Dessa forma, identifica-se uma **desconexão entre pessoas que possuem
 livros, pessoas que procuram por esses materiais e estabelecimentos ou
 iniciativas que possibilitam sua troca, compra, venda ou doação**.
-
-## 3️⃣ Declaração do desafio
-
-A partir da problemática identificada e da relação com a ODS 11, o
-desafio da atividade pode ser definido como:
-
-> **Como podemos facilitar o acesso da comunidade a livros e incentivar
-> a circulação de obras, aproximando estudantes, leitores e iniciativas
-> locais por meio de uma solução digital?**
-
-Essa formulação permite explorar diferentes possibilidades de solução
-durante o processo de ideação, sem limitar inicialmente a proposta a um
-formato específico de sistema, aplicativo ou plataforma.
-
-Assim, a proposta se relaciona à **ODS 11** ao buscar fortalecer a
-conexão da comunidade com recursos culturais e iniciativas locais,
-utilizando a tecnologia como ferramenta de acesso, divulgação e
-aproximação entre esses diferentes atores.
