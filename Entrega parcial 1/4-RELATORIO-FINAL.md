@@ -1,2 +1,2 @@
 ## meta 11.4 -> espc no relat.
-## 
+## melhorar desafios a partir das personas - ser mais especifico...
