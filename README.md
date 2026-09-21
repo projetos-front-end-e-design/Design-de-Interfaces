@@ -1,13 +1,5 @@
 > Trabalho desenvolvido para a disciplina de **Design**, com foco no processo de ideação e na aplicação de princípios de Design para a construção de uma solução digital.
 
-## SOBRE O TRABALHO
-
-Este projeto propõe uma **solução digital voltada à circulação e ao acesso a livros**, aproximando estudantes, leitores e iniciativas locais relacionadas ao comércio, troca, doação e reutilização de obras.
-
-A proposta parte da identificação de dificuldades no acesso a livros e da falta de visibilidade de pequenos estabelecimentos e iniciativas que trabalham com acervos físicos.
-
-A solução busca utilizar a tecnologia para **facilitar a descoberta desses recursos, estimular a circulação de livros e fortalecer a conexão entre a comunidade e iniciativas locais**.
-
 ## OBJETIVO
 
 Desenvolver uma solução que contribua para:
