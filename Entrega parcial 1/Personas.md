@@ -38,4 +38,3 @@
   Ele deseja ajudar os seus alunos para se prepararem ao vestibular ao apresentar a eles diferentes materiais sobre os assuntos no qual ele dá aula.
   Ele está procurando feiras de livro, e etc para recomendar seus aulos a irem para conseguirem mais facilmente esses materiais para auxiliar seus alunos
   nos estudos e para que consigam ter mais confiança e facilidade nos simulados que visam o vestibular de escolha de cada aluno
-  ## Persona 4
