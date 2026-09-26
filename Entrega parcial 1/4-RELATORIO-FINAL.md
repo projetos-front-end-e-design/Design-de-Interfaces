@@ -67,11 +67,14 @@ Essa declaração permite explorar diferentes possibilidades de solução durant
 
 ## Persona 1 - Mariana Santos
 
-Mariana Santos, 21 anos, é estudante de Ciência da Computação em uma universidade particular do Recife e procura formas de adquirir e compartilhar livros sem depender apenas da compra de exemplares novos. Ela costuma se interessar por alternativas que permitam dar novos usos aos livros e facilitar sua circulação entre pessoas da comunidade.
+Mariana Santos, 21 anos, é estudante do 5º período de Ciência da Computação na UNICAP e estagiária de desenvolvimento front-end em uma startup do Porto Digital. Durante a graduação, acumulou livros e materiais impressos que já não utiliza, mas que continuam em bom estado e poderiam ser aproveitados por outras pessoas. Como passa boa parte do dia entre a Várzea, a universidade e o trabalho, prefere encontrar pontos de troca e doação que estejam próximos ou façam parte de sua rotina, evitando deslocamentos exclusivamente para entregar ou buscar livros.
 
-**Principais necessidades:** encontrar livros que deseja por meio de compra, troca ou doação; localizar sebos e pontos de troca e doação próximos; encontrar opções para adquirir livros sem precisar comprá-los novos; trocar ou doar livros que não utiliza mais; encontrar informações sobre iniciativas locais relacionadas à circulação e ao reaproveitamento de livros.
+Ela encontra dificuldades para descobrir pessoas interessadas em seus livros e para localizar pontos de troca, doação e iniciativas comunitárias próximos à sua rotina. Também gostaria de saber previamente onde pode encontrar ou entregar determinados exemplares, evitando deslocamentos desnecessários.
 
-Para Mariana, ter essas informações reunidas em um único espaço facilita tanto a busca por livros quanto a possibilidade de compartilhar e dar um novo destino às obras que já possui. Ela é uma usuária que busca praticidade e alternativas para trocar, doar e reaproveitar livros, contribuindo para a circulação de obras dentro da comunidade.
+**Principais necessidades:** encontrar pessoas interessadas em receber ou trocar seus livros; localizar pontos de troca, doação e geladeiras literárias próximos à sua rotina; divulgar os exemplares que possui; consultar informações sobre livros disponíveis; e realizar trocas presenciais em locais acessíveis e seguros, sem depender de frete.
+
+Para Mariana, reunir essas possibilidades em um único espaço facilita o reaproveitamento dos materiais que já não utiliza e permite que eles continuem circulando entre outras pessoas. Ela busca uma forma prática de trocar, doar e dar novos destinos aos livros dentro da própria comunidade.
+
 
 ## Persona 2 - José Farias da Silva
 
