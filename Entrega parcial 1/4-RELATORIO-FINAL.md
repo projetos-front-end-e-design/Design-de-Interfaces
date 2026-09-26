@@ -92,13 +92,15 @@ Renan Ricardo da Sousa Filho, 46 anos, é professor de cursinho há 20 anos — 
 
 ## Persona 4 - Camila Oliveira
 
-Camila Oliveira, 32 anos, é uma consumidora de livros que encontra na leitura uma forma de lazer e crescimento pessoal. Costuma buscar livros impressos e considera diferentes formas de adquiri-los, tanto em lojas físicas quanto pela internet.
+Camila Oliveira, 32 anos, é analista de marketing e mora em Boa Viagem, Recife. É uma consumidora de livros que encontra na leitura uma forma de lazer e crescimento pessoal. Costuma buscar livros impressos e considera tanto lojas físicas quanto a internet para adquirir as obras que deseja.
+Ao escolher um livro, Camila considera principalmente o tema, além do título, das recomendações de amigos e familiares e do preço. Também gosta de se informar sobre lançamentos e descobrir novos títulos. Na escolha de onde comprar, leva em conta fatores como preço, disponibilidade, localização e variedade de obras.
+As livrarias também fazem parte de sua experiência com os livros, pois permitem explorar diferentes títulos, conhecer novidades e ter contato com cultura e conhecimento. Ao mesmo tempo, as opções de compra pela internet oferecem outra possibilidade para encontrar e adquirir as obras que procura.
 
-**Principais necessidades:** encontrar livros voltados para lazer e crescimento pessoal; encontrar livros impressos de seu interesse; comparar diferentes opções de compra; encontrar lojas físicas com variedade de títulos; aproveitar ofertas e opções de compra que ofereçam maior praticidade.
+**Principais necessidades:** encontrar livros impressos de seu interesse, descobrir lançamentos e novos títulos, consultar informações sobre preço e disponibilidade, comparar opções de compra e encontrar estabelecimentos com variedade de obras.
 
-Para Camila, ter diferentes opções para encontrar e adquirir livros facilita a escolha das obras que deseja, permitindo que considere tanto a praticidade das compras online quanto a experiência de procurar livros em estabelecimentos físicos. Ela é uma usuária que busca praticidade e variedade em suas compras, utilizando a leitura principalmente como forma de lazer e crescimento pessoal.
+Para Camila, reunir essas possibilidades facilita a descoberta e a escolha dos livros que deseja. Ela busca praticidade e variedade, sem abrir mão da experiência de explorar livros presencialmente.
 
-**Fonte:** *Câmara Brasileira do Livro (CBL) / Nielsen BookData — Pesquisa Panorama do Consumo de Livros, fev/2025 (cbl.org.br).*
+Fonte: Câmara Brasileira do Livro (CBL) / Nielsen BookData — Pesquisa Panorama do Consumo de Livros, ano-base 2025.
 
 ---
 
