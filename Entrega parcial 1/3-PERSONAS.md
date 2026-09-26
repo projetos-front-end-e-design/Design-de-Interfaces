@@ -40,13 +40,13 @@
   nos estudos e para que consigam ter mais confiança e facilidade nos simulados que visam o vestibular de escolha de cada aluno
 
   ## Persona 4
-  Camila Oliveira, 32 anos, é analista de marketing e mora em Boa Viagem, Recife. É uma consumidora de livros que encontra na leitura uma forma de lazer e crescimento pessoal. Costuma buscar livros impressos e considera diferentes formas de adquiri-los, tanto em lojas físicas quanto pela internet.
-
-  Ao escolher uma obra, Camila presta atenção principalmente ao tema e também considera o título, recomendações de amigos e familiares e o preço. Ela gosta de se manter informada sobre lançamentos e tem interesse em descobrir novos títulos. Quando procura um local para comprar, considera aspectos como preço, disponibilidade, localização e variedade de obras.
-  As livrarias também fazem parte de sua experiência com os livros. Camila valoriza a possibilidade de explorar diferentes títulos, conhecer novidades e encontrar nesses espaços uma oportunidade de contato com cultura e conhecimento. Ao mesmo tempo, considera as opções de compra pela internet quando elas oferecem praticidade e condições que atendem ao que procura.
+  Camila Oliveira, 32 anos, é analista de marketing e mora em Boa Viagem, Recife. É uma consumidora de livros que encontra na leitura uma forma de lazer e crescimento pessoal. Costuma buscar livros impressos e considera tanto lojas físicas quanto a internet para adquirir as obras que deseja.
+  Ao escolher um livro, Camila considera principalmente o tema, além do título, das recomendações de amigos e familiares e do preço. Também gosta de se informar sobre lançamentos e descobrir novos títulos. Na escolha de onde comprar, leva em conta fatores como preço, disponibilidade, localização e variedade de obras.
+  As livrarias também fazem parte de sua experiência com os livros, pois permitem explorar diferentes títulos, conhecer novidades e ter contato com cultura e conhecimento. Ao mesmo tempo, as opções de compra pela internet oferecem outra possibilidade para encontrar e adquirir as obras que procura.
   
-  Suas principais necessidades são encontrar livros impressos voltados para lazer e crescimento pessoal, descobrir novos títulos e lançamentos, consultar informações sobre preço e disponibilidade, comparar diferentes opções de compra e encontrar estabelecimentos com variedade de obras.
+  Suas principais necessidades são encontrar livros impressos de seu interesse, descobrir lançamentos e novos títulos, consultar informações sobre preço e disponibilidade, comparar opções de compra e encontrar estabelecimentos com variedade de obras.
   
-  Para Camila, ter diferentes possibilidades para descobrir e adquirir livros facilita a escolha das obras que deseja. Ela busca praticidade e variedade, mas também valoriza a experiência de procurar livros presencialmente e explorar novas opções.
+  Para Camila, reunir essas possibilidades facilita a descoberta e a escolha dos livros que deseja. Ela busca praticidade e variedade, sem abrir mão da experiência de explorar livros presencialmente.
   
   Fonte: Câmara Brasileira do Livro (CBL) / Nielsen BookData — Pesquisa Panorama do Consumo de Livros, ano-base 2025.
+
