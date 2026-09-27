@@ -9,6 +9,6 @@
 
 - [ ] melhorar os 6 desafios feitos a partir das personas - ser mais especifico em cada desafio (parecem extensões uns dos outros);
 
-- [ ] pesquisar e especificar para regiao metropolitana do rec;
+- [x] pesquisar e especificar para regiao metropolitana do rec;
 
-- [ ] melhorar as personas para o modelo presentes dos slides apresentados pela professora;
+- [x] melhorar as personas para o modelo presentes dos slides apresentados pela professora;
