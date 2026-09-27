@@ -9,9 +9,9 @@ A **ODS 11 - Cidades e Comunidades Sustentáveis** tem como objetivo
 tornar as cidades e os assentamentos humanos mais inclusivos, seguros,
 resilientes e sustentáveis.
 
-Para esta proposta, foi selecionada a meta que estabelece o
-fortalecimento de esforços para proteger e salvar o patrimônio
-cultural.
+Para esta proposta, foi selecionada a **Meta 11.4**, que estabelece o
+fortalecimento dos esforços para **proteger e salvaguardar o patrimônio
+cultural e natural do mundo**.
 
 A relação da proposta com essa meta está na valorização e ampliação do
 acesso aos recursos culturais presentes nas comunidades. Nesse contexto,
