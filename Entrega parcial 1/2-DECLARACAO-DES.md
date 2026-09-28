@@ -18,24 +18,17 @@ aproximação entre esses diferentes atores.
 
 ## DESAFIOS IDENTIFICADOS
 
-1. Como podemos facilitar o acesso a livros para estudantes e leitores que
-   encontram dificuldades para adquiri-los?
+1. Como podemos garantir o acesso gratuito ou a custo zero a livros para leitores e estudantes de baixa renda (Classes D/E), eliminando o fator financeiro como barreira para a leitura?
 
-2. Como podemos facilitar para estudantes e leitores a descoberta de livros
-   e de locais onde possam encontrá-los, adquiri-los ou obtê-los por meio de
-   troca ou doação?
+2. Como podemos mapear e dar visibilidade aos pontos locais de doação, feiras e trocas comunitárias de livros, facilitando o acesso físico para leitores do próprio bairro?
 
-3. Como podemos incentivar que livros que não estão sendo utilizados voltem
-   a circular entre pessoas que possam ter interesse ou necessidade deles?
+3. Como podemos incentivar e simplificar a logística de doação e desapego de livros ociosos em acervos particulares, estimulando a circulação contínua de obras paradas?
 
-4. Como podemos ampliar a visibilidade de sebos, livrarias independentes e
-   outras iniciativas locais relacionadas à circulação de livros?
+4. Como podemos conectar os acervos de sebos e livrarias independentes aos leitores da região, aumentando a visibilidade e o fluxo de clientes nesses estabelecimentos?
 
-5. Como podemos aproximar pessoas que possuem livros sem utilização de
-   outras pessoas interessadas em adquiri-los, trocá-los ou recebê-los?
+5. Como podemos criar um ambiente seguro e direto de interação entre leitores, facilitando a negociação pessoa para pessoa de trocas e vendas de livros usados?
 
-6. Como podemos facilitar o acesso a informações sobre compra, venda, troca
-   e doação de livros disponíveis na comunidade?
+6. Como podemos estruturar uma rede de repasse e reutilização de livros didáticos e paradidáticos entre estudantes no início de cada ciclo letivo?
 
 ## DESAFIO SELECIONADO
-Como podemos facilitar para estudantes e leitores a descoberta de livros e de locais onde possam encontrá-los, adquiri-los ou obtê-los por meio de troca ou doação?
+Como podemos mapear e dar visibilidade aos pontos locais de doação, feiras e trocas comunitárias de livros, facilitando o acesso físico para leitores do próprio bairro?
