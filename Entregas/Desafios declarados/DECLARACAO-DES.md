@@ -8,7 +8,7 @@ A partir da problemática identificada e da relação com a ODS 4, o desafio da 
 
 Essa formulação permite explorar diferentes possibilidades de solução durante o processo de ideação, sem limitar inicialmente a proposta a um formato específico de sistema, aplicativo ou plataforma.
 
-Assim, a proposta se relaciona à **ODS 11** ao buscar fortalecer a conexão da comunidade com recursos culturais e iniciativas locais, utilizando a tecnologia como ferramenta de acesso, divulgação e aproximação entre esses diferentes atores.
+Assim, a proposta se relaciona à **ODS 4** ao buscar fortalecer a conexão da comunidade com recursos culturais e iniciativas locais, utilizando a tecnologia como ferramenta de acesso, divulgação e aproximação entre esses diferentes atores.
 
 ## DESAFIOS IDENTIFICADOS
 
