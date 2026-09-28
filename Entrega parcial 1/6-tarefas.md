@@ -7,8 +7,10 @@
 
 - [x] meta 11.4: especificar a meta no relatorio;
 
-- [ ] melhorar os 6 desafios feitos a partir das personas - ser mais especifico em cada desafio (parecem extensões uns dos outros);
+- [x] melhorar os 6 desafios feitos a partir das personas - ser mais especifico em cada desafio (parecem extensões uns dos outros);
 
 - [x] pesquisar e especificar para regiao metropolitana do rec;
 
 - [x] melhorar as personas para o modelo presentes dos slides apresentados pela professora;
+
+- [ ] cada membro fazer 3 ideias a partir do desafio selecionado
