@@ -13,4 +13,6 @@
 
 - [x] melhorar as personas para o modelo presentes dos slides apresentados pela professora;
 
-- [ ] cada membro fazer 3 ideias a partir do desafio selecionado
+- [ ] cada membro fazer 3 ideias a partir do desafio selecionado;
+
+- [x] Atualizar ODS para 4 e 4.5
