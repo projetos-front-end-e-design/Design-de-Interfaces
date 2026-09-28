@@ -1,9 +1,9 @@
 # 💡 Geração de Ideias
 
-> **Desafio trabalhado:**\
-> **Como podemos facilitar o acesso da comunidade a livros e incentivar
-> a circulação de obras, aproximando estudantes, leitores e iniciativas
-> locais por meio de uma solução digital?**
+> **Desafio trabalhado:**
+> Como podemos mapear e dar visibilidade aos pontos locais de doação,
+> feiras e trocas comunitárias de livros, facilitando o acesso físico
+> para leitores do próprio bairro?
 
 ------------------------------------------------------------------------
 
