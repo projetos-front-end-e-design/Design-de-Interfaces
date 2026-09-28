@@ -4,22 +4,26 @@
 
 Desenvolver uma solução que contribua para:
 
-- 📖 Facilitar o acesso a livros;
+- 📖 Facilitar o acesso a livros e materiais de estudo;
 - ♻️ Incentivar a reutilização e circulação de obras;
-- 🏪 Dar maior visibilidade a sebos e livrarias independentes;
-- 🤝 Aproximar leitores, estudantes e iniciativas locais;
-- 📍 Centralizar informações sobre pontos de compra, troca e doação.
+- 🏪 Dar maior visibilidade a sebos, livrarias e iniciativas locais;
+- 🤝 Aproximar leitores, estudantes e pontos de troca, compra e doação;
+- 📍 Centralizar informações sobre locais que disponibilizam livros e materiais de forma acessível.
 
 ## 🌱 ODS RELACIONADA
 
 A proposta está relacionada à:
 
-**ODS 11 — Cidades e Comunidades Sustentáveis**
+**ODS 4 — Educação de Qualidade**
 
-A escolha está associada à valorização dos recursos culturais existentes nas comunidades e ao fortalecimento de iniciativas locais, utilizando a tecnologia como meio de facilitar o acesso e a conexão da população com esses recursos.
+### Meta 4.5
+
+A proposta se relaciona à **Meta 4.5**, que busca garantir a igualdade de acesso à educação e à formação para pessoas em situação de vulnerabilidade.
+
+Nesse contexto, a solução busca facilitar o acesso a livros e materiais de estudo por meio da divulgação de pontos de troca, doação, compra e venda de livros, aproximando estudantes e leitores de alternativas mais acessíveis.
 
 ## SOBRE ESTE REPOSITÓRIO
 
-Este repositório reúne os materiais desenvolvidos ao longo do processo de **Ideação**, incluindo a definição da ODS, construção da persona, declaração do desafio, geração de alternativas e seleção e refinamento das ideias.
+Este repositório reúne os materiais desenvolvidos ao longo do processo de **Ideação**, incluindo a definição da ODS e sua meta específica, construção das personas, declaração dos desafios, geração de alternativas e seleção e refinamento das ideias.
 
 ---
