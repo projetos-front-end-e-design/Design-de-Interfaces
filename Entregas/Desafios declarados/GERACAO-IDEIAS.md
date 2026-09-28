@@ -100,9 +100,17 @@ específicas sobre o funcionamento daquele estabelecimento, como:
 
 ## 👤 Lucas
 
-### 💡 Ideia 1
+### 💡 Ideia 1 - Troca online
 
-*Em desenvolvimento.*
+Disponibilidade de os usuários poderem negociar troca de livros com outros
+usuários e de os usuários escolherem um dos pontos de trocas designados pelo
+aplicativo. Isso pode ser aplicado por uma funcionalidade no aplicativo.
+
+as informações necessárias e apresentadas são:
+- 👤 Nome dos usuarios
+- 📖 Livros que vão ser trocados
+- 📍 Ponto de troca escolhido
+- 📆 Data
 
 ### 💡 Ideia 2
 
