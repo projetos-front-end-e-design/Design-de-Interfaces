@@ -24,13 +24,12 @@ A principal necessidade é encontrar materiais de estudo mais voltados à prepar
 Para José encontrar pontos onde ele consiga encontrar materiais didáticos por preços mais acessíveis ou até mesmo por trocas é essencial considerando a situação fiscal de sua família.
 
 https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2102240
-link do IBGE que leva a uma página do IBGE que dá o acesso de um pdf sobre indicadores sociais, principais informações em relação a educação estão localizadas a partir da página 75, sobre redes de ensino e etc, página 87 fala sobre as redes de ensino.
+> link do IBGE que leva a uma página do IBGE que dá o acesso de um pdf sobre indicadores sociais, principais informações em relação a educação estão
+> localizadas a partir da página 75, sobre redes de ensino e etc, página 87 fala sobre as redes de ensino.
   
 ## Persona 3
 
-Renan Ricardo da Sousa Filho, 46 anos, professor de cursinho. Ele é professor já a 20 anos, seus primeiros 14 como professor de ensino médio e depois começou a dar aulas em cursinhos diferentes.
-
-Ele deseja ajudar os seus alunos para se prepararem ao vestibular ao apresentar a eles diferentes materiais sobre os assuntos no qual ele dá aula.
+Renan Ricardo da Sousa Filho, 46 anos, professor de cursinho. Ele é professor já a 20 anos, seus primeiros 14 como professor de ensino médio e depois começou a dar aulas em cursinhos diferentes. Ele deseja ajudar os seus alunos para se prepararem ao vestibular ao apresentar a eles diferentes materiais sobre os assuntos no qual ele dá aula.
 
 Ele está procurando feiras de livro, e etc para recomendar seus aulos a irem para conseguirem mais facilmente esses materiais para auxiliar seus alunos nos estudos e para que consigam ter mais confiança e facilidade nos simulados que visam o vestibular de escolha de cada aluno
 
