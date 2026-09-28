@@ -1,48 +1,145 @@
+# 💡 Geração de Ideias
+
+> **Desafio trabalhado:**\
 > **Como podemos facilitar o acesso da comunidade a livros e incentivar
 > a circulação de obras, aproximando estudantes, leitores e iniciativas
 > locais por meio de uma solução digital?**
 
-### Loren
+------------------------------------------------------------------------
 
-Ideia 1 - app que mostra os eventos literários cadastrados por região (mostrando a faixa de valor média) e pontos de troca e doação. Contém informações de data, horário, localidade.
+## 👤 Loren
 
-Ideia 2 - um app gamificado que a cada troca/doação o usuário faça registro da aquisição e ganhe moedas por isso (quem doa e quem vende). Futuramente ele poderia usar essas moedas para desconto em novas compras literárias.
+### 💡 Ideia 1 - Eventos literários e pontos de troca
 
-ideia 3 - 
+Aplicativo que mostra os **eventos literários cadastrados por região**,
+apresentando a faixa de valor média, além de **pontos de troca e
+doação**.
 
-### Amanda
+**Informações apresentadas:** - 📅 Data - 🕐 Horário - 📍 Localidade -
+💰 Faixa de valor média - 🔄 Pontos de troca e doação
 
-ideia 1 - Pontos Literários Parceiros: Criar uma rede de Pontos Literários em estabelecimentos e espaços já frequentados pela comunidade, como escolas, universidades, cafés, mercados e centros comunitários. Esses locais poderiam funcionar como pontos físicos de doação e troca de livros. O aplicativo apresentaria quais estabelecimentos fazem parte da rede, quais serviços oferecem e seus horários de funcionamento. Em vez de apenas mostrar lugares que já existem, a proposta busca ampliar fisicamente a quantidade de pontos disponíveis, levando a circulação de livros para locais mais próximos dos moradores.
+### 💡 Ideia 2 - Gamificação por troca e doação
 
-ideia 2 - Criar uma funcionalidade que permita ao usuário informar sua localização e o tipo de livro que procura. A partir dessas informações, o sistema poderia sugerir uma rota pelos pontos literários próximos, considerando a distância e o meio de transporte escolhido. Dessa forma, a solução facilitaria o deslocamento do usuário até locais de troca, doação, feiras e outros pontos relacionados à circulação de livros.
+Aplicativo gamificado em que, a cada **troca ou doação**, o usuário
+registra a aquisição e recebe **moedas** pela participação.
 
-ideia 3 - Desenvolver um app no qual livrarias, sebos, escolas, bibliotecas e outros estabelecimentos ou iniciativas locais possam se cadastrar como pontos relacionados à circulação de livros. O usuário não precisaria ir até o local para descobrir se ele realiza determinada atividade. Ele poderia consultar essas informações previamente e decidir qual ponto atende melhor à sua necessidade.
+As moedas poderiam ser obtidas tanto por quem **doa** quanto por quem
+**vende** livros e, futuramente, utilizadas para obter **descontos em
+novas compras literárias**.
 
-Ao acessar um local cadastrado, o usuário poderia visualizar informações específicas sobre o funcionamento daquele estabelecimento, como:
+### 💡 Ideia 3
 
-- se realiza troca de livros;
-- se aceita doações;
-- se realiza compra e venda;
-- quais tipos de livros ou materiais são aceitos;
-- dias e horários para realizar essas atividades;
-- localização do estabelecimento;
-- regras ou condições para troca, compra ou doação.
+*Em desenvolvimento.*
 
-Exemplo:
+------------------------------------------------------------------------
 
-📍 Biblioteca Comunitária X
+## 👤 Amanda
 
-- Troca: Sim
-- Doação: Sim
-- Venda: Não
-- Aceita: livros didáticos e paradidáticos
-- Trocas: segunda a sexta, 14h–17h
-- Rua X, Bairro Y
+### 💡 Ideia 1 - Pontos Literários Parceiros
 
-### Lucas
+Criar uma rede de **Pontos Literários** em estabelecimentos e espaços já
+frequentados pela comunidade, como escolas, universidades, cafés,
+mercados e centros comunitários.
 
-ideia 1 -
+Esses locais poderiam funcionar como **pontos físicos de doação e troca
+de livros**. O aplicativo apresentaria quais estabelecimentos fazem
+parte da rede, quais serviços oferecem e seus horários de funcionamento.
 
-ideia 2 -
+Em vez de apenas mostrar lugares que já existem, a proposta busca
+**ampliar fisicamente a quantidade de pontos disponíveis**, levando a
+circulação de livros para locais mais próximos dos moradores.
 
-ideia 3 -
+### 💡 Ideia 2 - Rota Literária
+
+Criar uma funcionalidade que permita ao usuário informar sua
+**localização** e o **tipo de livro que procura**.
+
+A partir dessas informações, o sistema poderia sugerir uma **rota pelos
+pontos literários próximos**, considerando a distância e o meio de
+transporte escolhido.
+
+Dessa forma, a solução facilitaria o deslocamento do usuário até locais
+de: - 🔄 Troca - 🎁 Doação - 📚 Feiras - 🏪 Outros pontos relacionados à
+circulação de livros
+
+### 💡 Ideia 3 - Cadastro e especificidades dos pontos locais
+
+Desenvolver um aplicativo no qual **livrarias, sebos, escolas,
+bibliotecas e outros estabelecimentos ou iniciativas locais** possam se
+cadastrar como pontos relacionados à circulação de livros.
+
+O usuário não precisaria ir até o local para descobrir se ele realiza
+determinada atividade. Ele poderia consultar essas informações
+previamente e decidir qual ponto atende melhor à sua necessidade.
+
+Ao acessar um local cadastrado, o usuário poderia visualizar informações
+específicas sobre o funcionamento daquele estabelecimento, como:
+
+-   🔄 Se realiza troca de livros
+-   🎁 Se aceita doações
+-   💰 Se realiza compra e venda
+-   📚 Quais tipos de livros ou materiais são aceitos
+-   🕐 Dias e horários para realizar essas atividades
+-   📍 Localização do estabelecimento
+-   📋 Regras ou condições para troca, compra ou doação
+
+#### 📍 Exemplo
+
+**Biblioteca Comunitária X**
+
+  Informação       Detalhe
+  ---------------- ----------------------------------
+  🔄 Troca         Sim
+  🎁 Doação        Sim
+  💰 Venda         Não
+  📚 Aceita        Livros didáticos e paradidáticos
+  🕐 Trocas        Segunda a sexta, 14h--17h
+  📍 Localização   Rua X, Bairro Y
+
+------------------------------------------------------------------------
+
+## 👤 Lucas
+
+### 💡 Ideia 1
+
+*Em desenvolvimento.*
+
+### 💡 Ideia 2
+
+*Em desenvolvimento.*
+
+### 💡 Ideia 3
+
+*Em desenvolvimento.*
+
+------------------------------------------------------------------------
+
+## 📌 Resumo das ideias
+
+  -----------------------------------------------------------------------
+  Integrante              Ideia                   Proposta principal
+  ----------------------- ----------------------- -----------------------
+  **Loren**               1                       Eventos literários e
+                                                  pontos de troca/doação
+
+  **Loren**               2                       Gamificação por troca e
+                                                  doação
+
+  **Loren**               3                       Em desenvolvimento
+
+  **Amanda**              1                       Rede de Pontos
+                                                  Literários Parceiros
+
+  **Amanda**              2                       Rotas até pontos
+                                                  literários próximos
+
+  **Amanda**              3                       Cadastro e informações
+                                                  sobre funcionamento dos
+                                                  pontos
+
+  **Lucas**               1                       Em desenvolvimento
+
+  **Lucas**               2                       Em desenvolvimento
+
+  **Lucas**               3                       Em desenvolvimento
+  -----------------------------------------------------------------------
