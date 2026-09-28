@@ -112,9 +112,23 @@ as informações necessárias e apresentadas são:
 - 📍 Ponto de troca escolhido
 - 📆 Data
 
-### 💡 Ideia 2
+### 💡 Ideia 2 - Sugestão de livros/trocas/pontos
 
-*Em desenvolvimento.*
+O aplicativo rotinamente irá mandar notificações sobre livros, feiras com
+livros do interesse do estudante e trocas com livros que o usuário tem interesse
+ou que ele possa ter interesse.
+
+📖 os livros sugeridos são livros que estejam de acordo com os gostos do usuário,
+tenham o seu preço de mercado, quais lojas tem ele e se existem trocas com
+esses livres perto da localização do usuario
+
+📍 As feiras são eventos e etc que tenham livros que o usuário tenha interesse e/ou
+perto da localização dele. O usuário escolhe se esses critérios seram utilizados.
+
+🔄 As trocas tem como base notificar o usuário se ele tem o livro que a troca pede, tem
+um livro que o usuário tem interesse ou é de um genêro que o usuário tenha como interesse
+e esteja perto da localização do usuário. De novo, o usuário pode mudar essas especificações
+ao seu gosto
 
 ### 💡 Ideia 3
 
@@ -145,9 +159,10 @@ as informações necessárias e apresentadas são:
                                                   sobre funcionamento dos
                                                   pontos
 
-  **Lucas**               1                       Em desenvolvimento
+  **Lucas**               1                       Troca Online
 
-  **Lucas**               2                       Em desenvolvimento
+  **Lucas**               2                       Sugestões do aplicativo
+                                                  de livros/trocas/pontos
 
   **Lucas**               3                       Em desenvolvimento
   -----------------------------------------------------------------------
