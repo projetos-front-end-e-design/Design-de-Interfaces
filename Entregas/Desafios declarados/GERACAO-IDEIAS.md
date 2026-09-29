@@ -130,8 +130,9 @@ um livro que o usuário tem interesse ou é de um genêro que o usuário tenha c
 e esteja perto da localização do usuário. De novo, o usuário pode mudar essas especificações
 ao seu gosto
 
-### 💡 Ideia 3
+### 💡 Ideia 3 - Eventos literários da comunidade
 
-*Em desenvolvimento.*
+Dar a possibilidade de membros da comunidade organizarem eventos, feirars literárias, etc
+em parceria com o aplicativo em localidades já registradas e aprovadas.
 
 ------------------------------------------------------------------------
