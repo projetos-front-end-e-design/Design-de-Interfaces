@@ -5,7 +5,7 @@
 > feiras e trocas comunitárias de livros, facilitando o acesso físico
 > para leitores do próprio bairro?
 
-------------------------------------------------------------------------
+<br>
 
 ## 👤 Loren
 
