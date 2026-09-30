@@ -29,9 +29,11 @@ novas compras literárias**.
 
 ### 💡 Ideia 3
 
+
 O **Passaporte Literário** é um aplicativo que mapeia os pontos de doação e troca de livros no bairro, como caixas em praças, feiras locais e estantes em comércios parceiros (cafés e padarias). 
 Ao doar um exemplar, o leitor gera um QR Code exclusivo e o cola no livro antes de deixá-lo em um Ponto do mapa. Quando outra pessoa resgata essa obra, ela escaneia o código para fazer um check-in, notificando o antigo dono e desbloqueando a "linha do tempo" do livro.
-Nessa tela, o leitor vê o trajeto que a obra já percorreu pela vizinhança e pode ler ou deixar recados anônimos. Além de facilitar o acesso físico aos livros, o app movimenta o comércio local e fortalece o sentimento de comunidade no próprio bairro.
+Nessa tela, o leitor vê o trajeto que a obra já percorreu pela vizinhança e pode ler ou deixar recados anônimos. Além de facilitar o acesso físico aos livros, o app movimenta o comércio local e fortalece o sentimento de comunidade no próprio bairro
+
 ------------------------------------------------------------------------
 
 ## 👤 Amanda
