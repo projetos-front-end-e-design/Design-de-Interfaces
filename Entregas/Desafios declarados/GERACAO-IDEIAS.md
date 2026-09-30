@@ -27,7 +27,7 @@ As moedas poderiam ser obtidas tanto por quem **doa** quanto por quem
 **vende** livros e, futuramente, utilizadas para obter **descontos em
 novas compras literárias**.
 
-### 💡 Ideia 3 — Passaporte Literário
+### 💡 Ideia 3 — Passaporte Literário | Acompanhar a circulação de um livro
 
 O **Passaporte Literário** propõe utilizar um **QR Code exclusivo em cada livro** para registrar sua circulação entre diferentes leitores. 
 Ao doar ou trocar um exemplar, o responsável gera e coloca o código no livro. Quando outra pessoa recebe a obra, pode escanear o QR Code para **registrar a nova passagem do livro**, permitindo acompanhar seu percurso ao longo das trocas e doações.
