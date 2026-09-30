@@ -9,7 +9,7 @@
 
 ## 👤 Loren
 
-### 💡 Ideia 1 - Eventos literários e pontos de troca
+### 💡 Ideia 1 - Catálogo de eventos literários e pontos de circulação | Descobrir eventos/pontos existentes
 
 Aplicativo que mostra os **eventos literários cadastrados por região**,
 apresentando a faixa de valor média, além de **pontos de troca e
@@ -18,7 +18,7 @@ doação**.
 **Informações apresentadas:** - 📅 Data - 🕐 Horário - 📍 Localidade -
 💰 Faixa de valor média - 🔄 Pontos de troca e doação
 
-### 💡 Ideia 2 - Gamificação por troca e doação
+### 💡 Ideia 2 - Gamificação | Incentivar trocas/doações
 
 Aplicativo gamificado em que, a cada **troca ou doação**, o usuário
 registra a aquisição e recebe **moedas** pela participação.
@@ -35,7 +35,7 @@ novas compras literárias**.
 
 ## 👤 Amanda
 
-### 💡 Ideia 1 - Pontos Literários Parceiros
+### 💡 Ideia 1 - Pontos Literários Parceiros | Criar/ampliar pontos físicos
 
 Criar uma rede de **Pontos Literários** em estabelecimentos e espaços já
 frequentados pela comunidade, como escolas, universidades, cafés,
@@ -49,7 +49,7 @@ Em vez de apenas mostrar lugares que já existem, a proposta busca
 **ampliar fisicamente a quantidade de pontos disponíveis**, levando a
 circulação de livros para locais mais próximos dos moradores.
 
-### 💡 Ideia 2 - Rota Literária
+### 💡 Ideia 2 - Rota Literária | Facilitar deslocamento
 
 Criar uma funcionalidade que permita ao usuário informar sua
 **localização** e o **tipo de livro que procura**.
@@ -62,7 +62,7 @@ Dessa forma, a solução facilitaria o deslocamento do usuário até locais
 de: - 🔄 Troca - 🎁 Doação - 📚 Feiras - 🏪 Outros pontos relacionados à
 circulação de livros
 
-### 💡 Ideia 3 - Cadastro e especificidades dos pontos locais
+### 💡 Ideia 3 - Ficha | Informar funcionamento dos pontos
 
 Desenvolver um aplicativo no qual **livrarias, sebos, escolas,
 bibliotecas e outros estabelecimentos ou iniciativas locais** possam se
@@ -100,7 +100,7 @@ específicas sobre o funcionamento daquele estabelecimento, como:
 
 ## 👤 Lucas
 
-### 💡 Ideia 1 - Troca online
+### 💡 Ideia 1 - Troca online | Negociação entre usuários
 
 Disponibilidade de os usuários poderem negociar troca de livros com outros
 usuários e de os usuários escolherem um dos pontos de trocas designados pelo
@@ -112,7 +112,7 @@ as informações necessárias e apresentadas são:
 - 📍 Ponto de troca escolhido
 - 📆 Data
 
-### 💡 Ideia 2 - Sugestão de livros/trocas/pontos
+### 💡 Ideia 2 - Sugestão de livros/trocas/pontos | Recomendações personalizadas
 
 O aplicativo rotinamente irá mandar notificações sobre livros, feiras com
 livros do interesse do estudante e trocas com livros que o usuário tem interesse
@@ -130,7 +130,7 @@ um livro que o usuário tem interesse ou é de um genêro que o usuário tenha c
 e esteja perto da localização do usuário. De novo, o usuário pode mudar essas especificações
 ao seu gosto
 
-### 💡 Ideia 3 - Eventos literários da comunidade
+### 💡 Ideia 3 - Eventos literários da comunidade | Criação de novos eventos
 
 Dar a possibilidade de membros da comunidade organizarem eventos, feirars literárias, etc
 em parceria com o aplicativo em localidades já registradas e aprovadas.
