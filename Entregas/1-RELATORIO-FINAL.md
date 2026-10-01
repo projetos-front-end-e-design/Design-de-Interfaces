@@ -67,7 +67,7 @@ Principais necessidades: **encontrar livros escolares e paradidáticos por preç
 
 Para Camila, uma solução que conecte famílias do Recife interessadas em **comprar, vender, trocar ou reaproveitar livros usados** pode facilitar a aquisição de materiais por um preço menor e, ao mesmo tempo, promover a circulação de livros que permanecem sem uso nas casas.
 
-Fonte: NICOLAU, André. Volta às aulas: 80% dos pais reaproveitam material escolar, revela estudo. CNN Brasil, 6 jan. 2026. 
+Fonte: **NICOLAU, André.** *Volta às aulas: 80% dos pais reaproveitam material escolar, revela estudo.* CNN Brasil, 6 jan. 2026. 
 Disponível em: https://www.cnnbrasil.com.br/educacao/volta-as-aulas-80-dos-pais-reaproveitam-material-escolar-revela-estudo/
 ---
 
