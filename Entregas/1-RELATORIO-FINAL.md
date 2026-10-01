@@ -35,17 +35,17 @@ Essa declaração permite explorar diferentes possibilidades de solução durant
 
 ## Desafios Identificados a partir das personas
 
-1. Como podemos garantir o acesso gratuito ou a custo zero a livros para leitores e estudantes de baixa renda (Classes D/E), eliminando o fator financeiro como barreira para a leitura?
+1. Como podemos reduzir as barreiras financeiras que dificultam o acesso a livros para leitores e estudantes de baixa renda (Classes D/E)?
 
-2. Como podemos mapear e dar visibilidade aos pontos locais de doação, feiras e trocas comunitárias de livros, facilitando o acesso físico para leitores do próprio bairro?
+2. Como podemos facilitar o acesso de leitores aos livros disponíveis em sua própria comunidade?
 
-3. Como podemos incentivar e simplificar a logística de doação e desapego de livros ociosos em acervos particulares, estimulando a circulação contínua de obras paradas?
+3. Como podemos incentivar pessoas a dar um novo destino aos livros que permanecem sem uso em seus acervos particulares?
 
-4. Como podemos conectar os acervos de sebos e livrarias independentes aos leitores da região, aumentando a visibilidade e o fluxo de clientes nesses estabelecimentos?
+4. Como podemos aproximar sebos e livrarias independentes dos leitores de sua região?
 
-5. Como podemos criar um ambiente seguro e direto de interação entre leitores, facilitando a negociação pessoa para pessoa de trocas e vendas de livros usados?
+5. Como podemos proporcionar mais segurança e confiança nas relações entre leitores interessados em comprar ou trocar livros usados?
 
-6. Como podemos estruturar uma rede de repasse e reutilização de livros didáticos e paradidáticos entre estudantes no início de cada ciclo letivo?
+6. Como podemos aproveitar livros didáticos e paradidáticos que deixam de ser utilizados por estudantes ao final de cada ciclo letivo?
 
 ## Desafio Selecionado
 
