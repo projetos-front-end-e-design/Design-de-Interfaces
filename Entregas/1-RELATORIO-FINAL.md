@@ -55,7 +55,7 @@ Essa declaração permite explorar diferentes possibilidades de solução durant
 
 # 3. Ideação Persona - Ad hoc baseada em dados
 
-**Camila Oliveira**
+<img width="870" height="1254" alt="Persona" src="https://github.com/user-attachments/assets/2e2ce911-a9da-4c2d-9efa-12bfe7958af8" />
 
 Camila Oliveira, 37 anos, é **analista de marketing** e mora em **Boa Viagem, Recife**. É mãe de dois filhos em idade escolar e participa da escolha e aquisição dos materiais utilizados por eles durante o ano letivo. Para equilibrar os gastos da família, costuma pesquisar preços e considerar alternativas aos materiais novos, principalmente quando encontra livros usados em bom estado.
 
