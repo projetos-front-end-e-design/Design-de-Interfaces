@@ -29,7 +29,7 @@ Dessa forma, identifica-se uma desconexão entre pessoas que possuem livros, pes
 
 A partir da problemática identificada e da relação com a ODS, a declaração do desafio da atividade pode ser definida da seguinte maneira:
 
-> **Como podemos mapear e dar visibilidade aos pontos locais de doação, feiras e trocas comunitárias de livros, facilitando o acesso físico para leitores do próprio bairro?**
+> **2. Como podemos facilitar o acesso de leitores aos livros disponíveis em sua própria comunidade?**
 
 Essa declaração permite explorar diferentes possibilidades de solução durante o processo de ideação, sem limitar inicialmente a proposta a um formato específico de sistema, aplicativo ou plataforma. Assim, a proposta se relaciona à ODS 11 ao buscar fortalecer a conexão da comunidade com recursos culturais e iniciativas locais, utilizando a tecnologia como ferramenta de acesso, divulgação e aproximação entre esses diferentes atores.
 
