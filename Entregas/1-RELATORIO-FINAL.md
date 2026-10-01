@@ -53,45 +53,22 @@ Essa declaração permite explorar diferentes possibilidades de solução durant
 
 ---
 
-# 3. Ideação das Personas - Ad hoc e Data driven
+# 3. Ideação Persona - Ad hoc baseada em dados
 
-## Persona 1 - Mariana Santos
+**Camila Oliveira**
 
-Mariana Santos, 21 anos, é estudante do 5º período de Ciência da Computação na UNICAP e estagiária de desenvolvimento front-end em uma startup do Porto Digital. Durante a graduação, acumulou livros e materiais impressos que já não utiliza, mas que continuam em bom estado e poderiam ser aproveitados por outras pessoas. Como passa boa parte do dia entre a Várzea, a universidade e o trabalho, prefere encontrar pontos de troca e doação que estejam próximos ou façam parte de sua rotina, evitando deslocamentos exclusivamente para entregar ou buscar livros.
+Camila Oliveira, 37 anos, é **analista de marketing** e mora em **Boa Viagem, Recife**. É mãe de dois filhos em idade escolar e participa da escolha e aquisição dos materiais utilizados por eles durante o ano letivo. Para equilibrar os gastos da família, costuma pesquisar preços e considerar alternativas aos materiais novos, principalmente quando encontra livros usados em bom estado.
 
-Ela encontra dificuldades para descobrir pessoas interessadas em seus livros e para localizar pontos de troca, doação e iniciativas comunitárias próximos à sua rotina. Também gostaria de saber previamente onde pode encontrar ou entregar determinados exemplares, evitando deslocamentos desnecessários.
+Ao procurar livros escolares e paradidáticos para os filhos, Camila considera principalmente o **título solicitado pela escola, o estado de conservação e o preço**. Também procura verificar a disponibilidade dos materiais e prefere encontrar opções próximas de sua região, facilitando a aquisição e evitando deslocamentos desnecessários.
 
-**Principais necessidades:** encontrar pessoas interessadas em receber ou trocar seus livros; localizar pontos de troca, doação e geladeiras literárias próximos à sua rotina; divulgar os exemplares que possui; consultar informações sobre livros disponíveis; e realizar trocas presenciais em locais acessíveis e seguros, sem depender de frete.
+Camila também possui livros e paradidáticos que seus filhos já utilizaram e que permanecem guardados em casa. Em vez de mantê-los sem uso, considera interessante **vendê-los, trocá-los ou doá-los para outras famílias** que possam aproveitá-los. No entanto, encontra dificuldade para localizar pessoas próximas que estejam procurando pelos mesmos materiais.
 
-Para Mariana, reunir essas possibilidades em um único espaço facilita o reaproveitamento dos materiais que já não utiliza e permite que eles continuem circulando entre outras pessoas. Ela busca uma forma prática de trocar, doar e dar novos destinos aos livros dentro da própria comunidade.
+Principais necessidades: **encontrar livros escolares e paradidáticos por preços mais acessíveis, localizar outras famílias interessadas em comprar, vender ou trocar esses materiais, verificar as condições dos livros e encontrar opções próximas de sua região**.
 
+Para Camila, uma solução que conecte famílias do Recife interessadas em **comprar, vender, trocar ou reaproveitar livros usados** pode facilitar a aquisição de materiais por um preço menor e, ao mesmo tempo, promover a circulação de livros que permanecem sem uso nas casas.
 
-## Persona 2 - José Farias da Silva
-
-José Farias da Silva é um estudante de ensino médio de 18 anos, se preparando para o vestibular a fim de entrar no ITA e cursar Engenharia Aeronáutica. Ele vem de uma família simples da periferia da zona norte de São Paulo. Para conseguir passar no vestibular, busca formas de acessar materiais didáticos e preparatórios que o ajudem a realizar seu sonho de estudar no ITA. Ele precisa de acesso a mais materiais didáticos porque nem sempre consegue assistir a todas as aulas da escola, e os materiais da escola pública não são suficientes para seus estudos.
-
-**Principais necessidades:** encontrar materiais de estudo voltados à preparação para o ITA por meio de opções mais acessíveis; localizar feiras de livros e eventos similares; encontrar pontos onde consiga materiais didáticos por preços mais acessíveis ou por meio de trocas, considerando a situação financeira de sua família.
-
-**Fonte de apoio:** *IBGE — Indicadores Sociais (biblioteca.ibge.gov.br) — informações sobre educação e redes de ensino a partir da página 75 (redes de ensino, p. 87).*
-
-## Persona 3 - Renan Ricardo da Sousa Filho
-
-Renan Ricardo da Sousa Filho, 46 anos, é professor de cursinho há 20 anos — os primeiros 14 como professor de ensino médio e, depois, em diferentes cursinhos preparatórios. Ele deseja ajudar seus alunos a se prepararem para o vestibular apresentando diferentes materiais sobre os assuntos que leciona.
-
-**Principal necessidade:** encontrar feiras de livros e eventos semelhantes para recomendar aos seus alunos, facilitando o acesso a materiais que auxiliem nos estudos e aumentem a confiança e o desempenho nos simulados voltados ao vestibular de escolha de cada aluno.
-
-## Persona 4 - Camila Oliveira
-
-Camila Oliveira, 32 anos, é analista de marketing e mora em Boa Viagem, Recife. É uma consumidora de livros que encontra na leitura uma forma de lazer e crescimento pessoal. Costuma buscar livros impressos e considera tanto lojas físicas quanto a internet para adquirir as obras que deseja.
-Ao escolher um livro, Camila considera principalmente o tema, além do título, das recomendações de amigos e familiares e do preço. Também gosta de se informar sobre lançamentos e descobrir novos títulos. Na escolha de onde comprar, leva em conta fatores como preço, disponibilidade, localização e variedade de obras.
-As livrarias também fazem parte de sua experiência com os livros, pois permitem explorar diferentes títulos, conhecer novidades e ter contato com cultura e conhecimento. Ao mesmo tempo, as opções de compra pela internet oferecem outra possibilidade para encontrar e adquirir as obras que procura.
-
-**Principais necessidades:** encontrar livros impressos de seu interesse, descobrir lançamentos e novos títulos, consultar informações sobre preço e disponibilidade, comparar opções de compra e encontrar estabelecimentos com variedade de obras.
-
-Para Camila, reunir essas possibilidades facilita a descoberta e a escolha dos livros que deseja. Ela busca praticidade e variedade, sem abrir mão da experiência de explorar livros presencialmente.
-
-Fonte: Câmara Brasileira do Livro (CBL) / Nielsen BookData — Pesquisa Panorama do Consumo de Livros, ano-base 2025.
-
+Fonte: NICOLAU, André. Volta às aulas: 80% dos pais reaproveitam material escolar, revela estudo. CNN Brasil, 6 jan. 2026. 
+Disponível em: https://www.cnnbrasil.com.br/educacao/volta-as-aulas-80-dos-pais-reaproveitam-material-escolar-revela-estudo/
 ---
 
 # 4. Considerações Finais
