@@ -44,7 +44,7 @@ Dessa forma, identifica-se uma desconexão entre pessoas que possuem livros, est
 
 ### 3.1 Camila Oliveira — Analista
 
-![Camila Oliveira](https://www.pexels.com/pt-br/foto/mulher-escritorio-digitando-sentado-12903345/)
+![Camila Oliveira](https://github.com/projetos-front-end-e-design/Design-de-Interfaces/blob/main/Entregas/dados/img/persona.png)
 
 Camila Oliveira, 37 anos, é analista de marketing e mora em Boa Viagem, Recife . É mãe de dois filhos na idade escolar e participa da escolha e aquisição dos materiais utilizados por eles durante o ano letivo. Para equilibrar os gastos da família, costuma pesquisar preços e considerar alternativas aos materiais novos, principalmente quando encontra livros usados em bom estado.
 
