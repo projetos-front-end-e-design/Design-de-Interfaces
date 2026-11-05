@@ -232,7 +232,15 @@ As sugestões de troca podem considerar se o usuário possui um livro procurado 
 
 ---
 
-## 8. Considerações Finais
+## 8. Solução Proposta
+
+A solução proposta consiste no desenvolvimento de um aplicativo digital que conecta pessoas e organizações interessadas na circulação de livros, facilitando o acesso a obras por meio de doações, trocas, compras e revendas.
+
+A plataforma reúne usuários e instituições, como escolas, bibliotecas, acervos, sebos e livrarias, permitindo que divulguem livros disponíveis, encontrem pessoas interessadas e apresentem iniciativas e pontos físicos relacionados à circulação de obras.
+
+Dessa forma, a proposta busca aproximar quem deseja disponibilizar livros de quem procura adquiri-los ou recebê-los, ampliando as possibilidades de acesso a materiais de leitura e incentivando o reaproveitamento de obras. Além disso, pretende dar maior visibilidade às iniciativas e aos espaços locais, contribuindo para uma circulação de livros mais acessível e colaborativa.
+
+## 9. Considerações Finais
 
 A reformulação do projeto trouxe uma mudança importante em relação ao relatório anterior: a proposta deixou de ser fundamentada na **ODS 11 — Cidades e Comunidades Sustentáveis** e passou a ser relacionada à **ODS 4 — Educação de Qualidade**, especialmente à **Meta 4.5**, que trata da igualdade de acesso à educação e da atenção às pessoas em situação de vulnerabilidade.
 
