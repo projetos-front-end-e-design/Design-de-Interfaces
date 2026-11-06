@@ -231,3 +231,5 @@ A partir dessas diferentes experiências, foram formuladas seis desafios especí
 Na etapa seguinte, foram geradas alternativas que exploram diferentes possibilidades de atuação, como eventos, pontos físicos, rotas, informações sobre estabelecimentos, trocas entre usuários, sugestões e mecanismos de incentivo.
 
 Dessa forma, o trabalho permanece em uma etapa de **exploração e ideação**, sem definir antecipadamente uma solução final. As alternativas levantadas deverão passar posteriormente pelos processos de **agrupamento, seleção e refinamento**, permitindo que a proposta final seja construída a partir das necessidades identificadas e das ideias desenvolvidas pelo grupo.
+
+> nome: Zonall 
