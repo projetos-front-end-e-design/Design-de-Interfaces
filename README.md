@@ -1,10 +1,13 @@
-# Projeto de Design — Solução Digital
+<div align="center">
+
+# Projeto de Design — Solução Digital  
+</div>
 
 > 💡 **Trabalho desenvolvido para a disciplina de Design**, com foco no processo de ideação e na aplicação de princípios de Design para a construção de uma solução digital.
 
 ---
 
-## 🎯 OBJETIVO
+### 🎯 OBJETIVO
 
 Desenvolver uma solução que contribua para:
 
@@ -20,7 +23,7 @@ Desenvolver uma solução que contribua para:
 
 ---
 
-## 🌱 ODS RELACIONADA
+### 🌱 ODS RELACIONADA
 
 A proposta está relacionada à:
 
@@ -34,7 +37,7 @@ Nesse contexto, a solução busca facilitar o acesso a livros e materiais de est
 
 ---
 
-## 📂 SOBRE ESTE REPOSITÓRIO
+### 📂 SOBRE ESTE REPOSITÓRIO
 
 Este repositório reúne os materiais desenvolvidos ao longo do processo de **Ideação**, incluindo a definição da ODS e sua meta específica, construção das personas, declaração dos desafios, geração de alternativas e seleção e refinamento das ideias.
 
